@@ -44,7 +44,7 @@
 - 도마뱀/파충류 커뮤니티를 위한 전용 앱 개발
 - 전체 화면 기획 및 일부 기능 구현 완료
 - [Figma 디자인 보기]
-  ([https://www.figma.com/](https://www.figma.com/proto/jdOkf5cDwFkSOnwFfvE83w/OMG-Project-1?node-id=2%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A9&show-proto-sidebar=1)![image](https://github.com/user-attachments/assets/a2d295a5-3ebc-4124-a118-d841138595c2)
+  ((https://www.figma.com/proto/jdOkf5cDwFkSOnwFfvE83w/OMG-Project-1?node-id=2%3A9&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A9&show-proto-sidebar=1)![image](https://github.com/user-attachments/assets/a2d295a5-3ebc-4124-a118-d841138595c2)
 ) 
 
 ### 특수 반려동물 판매량 분석
