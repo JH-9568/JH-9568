@@ -37,19 +37,6 @@
 
 ---
 
-## Representative Projects
-
-### 도마뱀 커뮤니티 앱 (PINZ)
-- 기술: Flutter, Firebase, Figma
-- 도마뱀/파충류 커뮤니티를 위한 전용 앱 개발
-- 전체 화면 기획 및 일부 기능 구현 완료
-
-### 특수 반려동물 판매량 분석
-- 기술: Python, Pandas, Matplotlib
-- 지역 기반 판매 데이터 분석 및 시각화
-- GitHub 저장소: [pet-sales-analysis](https://github.com/JH-9568/pet-sales-analysis)
-
----
 
 ## Contact
 
