@@ -4,7 +4,6 @@
 ---
 
 ##  About Me
--  **모바일·웹 풀스택 개발자 지향**
   - Flutter & React를 활용한 앱/UI 개발 경험
   - FastAPI·Supabase 기반의 실시간 백엔드 구축
 -  **데이터 기반 기능 구현**
