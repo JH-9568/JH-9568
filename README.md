@@ -76,5 +76,4 @@ I build AI-powered learning tools, browser extensions, mobile apps, and data-dri
 
 ## Contact
 
-- GitHub: [JH-9568](https://github.com/JH-9568)
 - Email: [jinhyeong9568@gmail.com](mailto:jinhyeong9568@gmail.com)
