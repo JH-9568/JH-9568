@@ -31,5 +31,3 @@ AI 제품과 웹·모바일 서비스를 만들고, 피드백과 데이터로 �
 ---
 
 <sub>WORKING WITH &nbsp; Python · TypeScript · Next.js · FastAPI · Flutter · SwiftUI</sub>
-
-<img src="./assets/profile-footer.svg" width="100%" alt="" />
